@@ -1,0 +1,74 @@
+[Report]
+Area=Conditions as reported at Danville, VA.
+Time=1/9/01 at 8:17:21 PM
+Zip=24541
+Degrees=Fahrenheit
+Position=0
+DetailCheck=Yes
+Interval=190
+Method=XML
+[Current]
+Conditions=Fair
+Temperature=29
+Wind=From the Northwest at 8 mph
+Humidity=30%
+Barometer=30.13 inches and falling
+Dewpoint=6
+Visibility=unlimited
+Sunrise=7:29 am
+Sunset=5:19 pm
+[Weekday]
+Day1=Tonight
+Day2=Wed
+Day3=Thu
+Day4=Fri
+Day5=Sat
+Day6=Sun
+Day7=Mon
+Day8=Tue
+Day9=Wed
+Day10=Thu
+[High Temp]
+Day1=-
+Day2=60
+Day3=61
+Day4=55
+Day5=53
+Day6=57
+Day7=57
+Day8=45
+Day9=45
+Day10=46
+[Low Temp]
+Day1=23
+Day2=30
+Day3=39
+Day4=34
+Day5=32
+Day6=38
+Day7=34
+Day8=28
+Day9=28
+Day10=34
+[Weather]
+Day1=Partly Cloudy
+Day2=Sunny
+Day3=Partly Cloudy
+Day4=Mostly Cloudy
+Day5=Partly Cloudy
+Day6=Mostly Cloudy
+Day7=Mostly Cloudy
+Day8=Partly cloudy
+Day9=Partly cloudy
+Day10=Partly cloudy
+[Dates]
+Day1=JAN 9
+Day2=JAN 10
+Day3=JAN 11
+Day4=JAN 12
+Day5=JAN 13
+Day6=JAN 14
+Day7=JAN 15
+Day8=JAN 16
+Day9=JAN 17
+Day10=JAN 18
